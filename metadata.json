@@ -1,0 +1,6 @@
+{
+  "name": "亞馬遜登山裝備重量分析工具",
+  "description": "精準掌握裝備重量，打造安全且有效率的台灣高山裝備配置",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
